@@ -1,11 +1,10 @@
-# XXX's Homepage
+# Lyu Junzhe's Homepage
 ## About me
 ### Basic Information
 <table border="0">
   <tr>
     <td width="80%">
-      <h3>Name: XXX</h3>
-      <p><b>Home Add: XX - XX - XX</b></p>
+      <h3>Name: Lyu Junzhe(吕 俊哲)</h3>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
     <td width="20%">
@@ -23,16 +22,14 @@
 ## Education
 
 > + **2019 —— Now: Shandong University —— Undergraduate;**
-> + **2016 —— 2019: High School;**
+
 
 ## Some Notes About Mathematics
-> 
+> []()
 
 ## My Email and Phone Number
-> + **Email: XX**
-> + **Phone Number: +86 XX**
+> + **Email: 201900202073@mail.sdu.edu.cn**
+
 
 ## Links
-> [Shandong University](https://www.sdu.edu.cn/)
-> 
-> [Taishan Collage](https://www.tsxt.sdu.edu.cn/)
+
