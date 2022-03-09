@@ -8,7 +8,7 @@
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
     <td width="20%">
-      <img src="/MyPhoto.jpg" width="100%"> 
+      <img src="/Lyu.jpg" width="100%"> 
     </td>
   </tr>
 </table>
@@ -17,7 +17,7 @@
 > **Not upload Yet!**
 
 ### My CV
-> **Not upload Yet!**
+> [My CV](/CV.pdf)
 
 ## Education
 
@@ -27,9 +27,9 @@
 ## Some Notes About Mathematics
 > [Notes on Instatons and Four-Manifolds](/Instantons4manifold.pdf)
 
-## My Email
-> + **Email: 201900202073@mail.sdu.edu.cn**
-
+## My Emails
+> + **Email 1: 201900202073@mail.sdu.edu.cn**
+> + **Email 2: lyujunzhe04@gmail.com**
 
 ## Links
 
