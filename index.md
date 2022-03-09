@@ -27,7 +27,7 @@
 ## Some Notes About Mathematics
 > [Notes on Instatons and Four-Manifolds](/Instantonsand4manifold.pdf) **(to be continued...)**
 > 
-> [Notes on Symplectic geometry](/NoteonMcduff.pdf) **(to be continued...)**
+> [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
 
 ## My Emails
 > + **Email 1: 201900202073@mail.sdu.edu.cn**
