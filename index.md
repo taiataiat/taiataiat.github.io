@@ -14,7 +14,7 @@
 </table>
 
 ### About Me
-> **Not upload Yet!**
+> I am an undergraduate student who is intreseted in Geometry and Topology, especially Gauge theory and related topics.
 
 ### My CV
 > [My CV](/CV.pdf)
