@@ -29,7 +29,7 @@
 
 ## My Emails
 > + **Email 1: 201900202073@mail.sdu.edu.cn**
-> + **Email 2: lyujunzhe04@gmail.com**
+> + **Email 2: taiatlyu@gmail.com**
 
 ## Links
 
