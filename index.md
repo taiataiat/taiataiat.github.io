@@ -3,11 +3,11 @@
 ### Basic Information
 <table border="0">
   <tr>
-    <td width="80%">
+    <td width="70%">
       <h3>Name: Lyu Junzhe(吕 俊哲)</h3>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
     </td>
-    <td width="20%">
+    <td width="30%">
       <img src="/Lyu.jpg" width="100%"> 
     </td>
   </tr>
