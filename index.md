@@ -40,7 +40,7 @@
 
 > + **Introduction to Gauge Theory:** [Official Link](http://www.cim.nankai.edu.cn/2020/0709/c11453a284191/page.htm) or [Alternative Link](https://b23.tv/y7zPq6b?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304401067)
 
-> + **Introcution to Eillptic PDE:** [Official Link](https://resource.pku.edu.cn/index.php?r=course/detail&id=403) or [Alternative Link](https://b23.tv/1j7kx6n?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304464712)
+> + **Introduction to Elliptic PDE:** [Official Link](https://resource.pku.edu.cn/index.php?r=course/detail&id=403) or [Alternative Link](https://b23.tv/1j7kx6n?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304464712)
 
 ## Links
 > + [Liu Xiaolong's Homepage](dvlxlwz.github.io)
