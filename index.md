@@ -25,11 +25,11 @@
 
 
 ## Some Notes About Mathematics
-> [Notes on Instatons and Four-Manifolds](/NotesonUhlenbeck.pdf) **(to be continued...)**
+> + [Notes on Instatons and Four-Manifolds](/NotesonUhlenbeck.pdf) **(to be continued...)**
 > 
-> [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
+> + [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
 >
->[Algebraic curve with genus 0 and 1](/AlgCurve.pdf) **In Chinese**
+> + [Algebraic curve with genus 0 and 1](/AlgCurve.pdf) **In Chinese**
 
 ## My Emails
 > + **Email 1: 201900202073@mail.sdu.edu.cn**
