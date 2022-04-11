@@ -14,7 +14,7 @@
 </table>
 
 ### About Me
-> I am an undergraduate student who is intreseted in Geometry and Topology, especially Gauge theory and related topics.
+> I am an undergraduate student who is interested in Geometry and Topology, especially Gauge theory and related topics.
 
 ### My CV
 > [My CV](/CV.pdf)
@@ -45,4 +45,4 @@
 ## Links
 > + [Liu Zhiyu's Homepage](https://sites.google.com/view/zhiyuliu)
 
-> + [Liu Xiaolong's Homepage](dvlxlwz.github.io)
+> + [Liu Xiaolong's Homepage](https://dvlxlwz.github.io/)
