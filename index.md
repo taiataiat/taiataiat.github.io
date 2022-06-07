@@ -14,7 +14,7 @@
 </table>
 
 ### About Me
-> I am an undergraduate student who is interested in Geometry and Topology, especially Gauge theory and related topics.
+> I am an undergraduate student who is interested in Geometry, especially Gauge theory, moduli problem and related topics. Now I want to understand geometry from both analytic and algebraic aspects.
 
 ### My CV
 > [My CV](/CV.pdf)
