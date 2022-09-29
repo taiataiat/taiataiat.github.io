@@ -25,7 +25,7 @@
 
 
 ## Some Notes About Mathematics
-> + [Notes on Instatons and Four-Manifolds](/NotesonUhlenbeck.pdf) **(to be continued...)**
+> + [Notes on Instatons and Four-Manifolds](/Notes on Uhlenbeck.pdf) **(to be continued...)**
 > 
 > + [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
 >
