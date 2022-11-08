@@ -30,6 +30,9 @@
 > + [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
 >
 > + [Algebraic curve with genus 0 and 1](/AlgCurve.pdf) **(In Chinese)**
+>
+> + [有朋自远方来专访](https://web.math.sinica.edu.tw/mathmedia/interview_index18.jsp)
+
 
 ## My Emails
 > + **Email 1: 201900202073@mail.sdu.edu.cn**
