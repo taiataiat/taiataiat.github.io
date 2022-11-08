@@ -30,8 +30,7 @@
 > + [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
 >
 > + [Algebraic curve with genus 0 and 1](/AlgCurve.pdf) **(In Chinese)**
->
-> + [有朋自远方来专访](https://web.math.sinica.edu.tw/mathmedia/interview_index18.jsp)
+
 
 
 ## My Emails
@@ -44,6 +43,9 @@
 > + **Introduction to Gauge Theory:** [Official Link](http://www.cim.nankai.edu.cn/2020/0709/c11453a284191/page.htm) or [Alternative Link](https://b23.tv/y7zPq6b?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304401067)
 
 > + **Introduction to Elliptic PDE:** [Official Link](https://resource.pku.edu.cn/index.php?r=course/detail&id=403) or [Alternative Link](https://b23.tv/1j7kx6n?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304464712)
+
+>
+> + [有朋自远方来专访](https://web.math.sinica.edu.tw/mathmedia/interview_index18.jsp)
 
 ## Links
 > + [Liu Zhiyu's Homepage](https://sites.google.com/view/zhiyuliu)
