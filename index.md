@@ -44,6 +44,9 @@
 
 > + **Introduction to Elliptic PDE:** [Official Link](https://resource.pku.edu.cn/index.php?r=course/detail&id=403) or [Alternative Link](https://b23.tv/1j7kx6n?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304464712)
 
+> + **A Mini Course on Complex Hyperbolic Geometry:**[Lesson 1](https://www.bilibili.com/video/BV1qP411j7jt/?spm_id_from=333.999.0.0&vd_source=fc89d6d296d52c05bd13ab165765a10c)
+> [Lesson 2](https://www.bilibili.com/video/BV1Cd4y1R79Q/?spm_id_from=333.788.recommend_more_video.-1&vd_source=fc89d6d296d52c05bd13ab165765a10c)
+
 >
 > + [有朋自遠方來 專訪](https://web.math.sinica.edu.tw/mathmedia/interview_index18.jsp)
 
