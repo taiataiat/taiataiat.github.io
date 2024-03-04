@@ -14,27 +14,23 @@
 </table>
 
 ### About Me
-> I am an undergraduate student who is interested in Geometry, especially Gauge theory, moduli problem and related topics. Now I want to understand geometry from both analytic and algebraic aspects.
+>I'm a Mphil student under the supervision of Conan Leung. I'm now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror. And also bow varities, an amazing test ground that 3d mirror symmetry can be predicted in a purely elementary way. My goal is to understand 3d mirror of bow varities in a more geometric way.
 
-### My CV
-> [My CV](/CV.pdf)
-
+## Research Interest
+> + **3D mirror symmetry; Bow varieties; Weierstraß functions**
 ## Education
 
-> + **2019 —— Now: Shandong University —— Undergraduate;**
+> + **2019 —— 2023: Shandong University —— Undergraduate;**
+> + **2023 —— now:  Chinese University of Hongkong —— Master of Philosophy**
 
 
 ## Some Notes About Mathematics
-> + [Notes on Instatons and Four-Manifolds](NotesonUhlenbeck.pdf) **(to be continued...)**
-> 
-> + [Notes on Introduction to Symplectic Topology](/NoteonMcduff.pdf) **(to be continued...)**
->
-> + [Algebraic curve with genus 0 and 1](/AlgCurve.pdf) **(In Chinese)**
+> + [Notes on Instatons and Four-Manifolds](NotesonUhlenbeck.pdf) **(Many typos)**
 
 
 
 ## My Emails
-> + **Email 1: 201900202073@mail.sdu.edu.cn**
+> + **Email 1: jzlyu@math.cuhk.edu.hk**
 > + **Email 2: taiatlyu@gmail.com**
 
 ## Some Chinese Mathematical Resources
