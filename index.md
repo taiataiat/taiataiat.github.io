@@ -18,6 +18,8 @@
 
 ## Research Interest
 > + **3D mirror symmetry; Bow varieties; Weierstraß functions**
+
+
 ## Education
 
 > + **2019 —— 2023: Shandong University —— Undergraduate;**
