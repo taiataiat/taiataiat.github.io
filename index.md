@@ -14,10 +14,8 @@
 </table>
 
 ### About Me
->I'm a Mphil student under the supervision of Conan Leung. I'm now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror. And also bow varities, an amazing test ground that 3d mirror symmetry can be predicted in a purely elementary way. My goal is to understand 3d mirror of bow varities in a more geometric way.
+>I'm a Mphil student under the supervision of Conan Leung. I'm now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror. In particular I'm interested in enmuerative geoemtry and geometric representation theory.
 
-## Research Interest
-> + **3D mirror symmetry; Bow varieties; Weierstraß functions**
 
 
 ## Education
