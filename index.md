@@ -31,7 +31,7 @@
 ## Some student talks I gave
 > + [Stable envelopes](talk1.pdf) 
 > + [Brideland stability condition](stability.pdf)
-> + [Bow varieties](bow varieties.pdf) 
+> + [Bow varieties](bowVarieties.pdf) 
 
 ## My Emails
 > + **Email 1: jzlyu@math.cuhk.edu.hk**
