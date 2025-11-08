@@ -5,7 +5,7 @@
   <tr>
     <td width="70%">
       <h3>Name: Lyu Junzhe(吕 俊哲)</h3>
-      <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
+      <p><b>Education Background for Now: Mphil Degree in Mathematics</b></p>
     </td>
     <td width="30%">
       <img src="/Lyu.jpg" width="100%"> 
