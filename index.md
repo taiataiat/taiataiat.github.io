@@ -14,14 +14,15 @@
 </table>
 
 ### About Me
->I'm a Mphil student under the supervision of Conan Leung. I'm interested in enmuerative geoemtry and geometric representation theory and now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror.
+>I'm a PhD student under the supervision of Richard Rimanyi and Andrey Smirnov. I'm interested in enmuerative geoemtry and geometric representation theory and now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror.
 
 
 
 ## Education
 
 > + **2019 —— 2023: Shandong University —— Undergraduate;**
-> + **2023 —— now:  Chinese University of Hongkong —— Master of Philosophy**
+> + **2023 —— 2025:  Chinese University of Hongkong —— Master of Philosophy**
+> + **2025 —— now:  University of North Carolina at Chapel Hill —— Doctor of Philosophy**
 
 
 ## Some Notes About Mathematics
@@ -34,8 +35,9 @@
 > + [Bow varieties](BowVarieties.pdf) 
 
 ## My Emails
-> + **Email 1: jzlyu@math.cuhk.edu.hk**
+> + **Email 1: taiat@ad.unc.edu**
 > + **Email 2: taiatlyu@gmail.com**
+> + 
 
 ## Some Chinese Mathematical Resources
 > + **Riemannian Geometry:** [Non-official Link only](https://b23.tv/tD6DVdy?share_medium=android&share_source=qq&bbid=XYB371DBF1C003F003817F665CC7B472A6C7A&ts=1648304369162)
