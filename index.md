@@ -14,7 +14,7 @@
 </table>
 
 ### About Me
->I'm a PhD student under the supervision of Richard Rimanyi and Andrey Smirnov. I'm interested in enmuerative geoemtry and geometric representation theory and now working on 3d mirror symmetry, a beautiful and mystery symmetry relating the geometry of some holomorphic symplectic manifolds and their mirror.
+> I'm interested in the crossroad of enmuerative geoemtry, symplectic geometry and geometric representation theory.
 
 
 
